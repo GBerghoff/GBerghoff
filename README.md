@@ -1,19 +1,17 @@
-# Hi, I’m Gage 👋
-
-## 🚀 **Software Engineer & Business Owner**
+# 🚀 **Software Engineer & Business Owner**
 Building scalable applications, leading technical teams, and delivering mission-critical solutions in **defense, healthcare, and SaaS**.
 
-### 🔧 What I Do
+## 🔧 What I Do
 
 * **Full-Stack Development** → Modern web apps, APIs, and data systems
 * **Data Visualization** → Elasticsearch, geospatial mapping, analytics dashboards
 * **Technical Leadership** → Mentorship, architecture decisions, cross-functional teams
 
-## 🛰️ Astero Engineering
+# 🛰️ Astero Engineering
 
 I run [Astero Engineering]([https://www.berghoff.dev](https://asteroengineering.com), where I focus on SaaS tools and helping businesses grow with modern, scalable software.
 
-## ⚡ Beyond Code
+# ⚡ Beyond Code
 
 Disc golf, hiking, longboarding, and exploring new tech + ideas. Balance keeps me sharp.
 
