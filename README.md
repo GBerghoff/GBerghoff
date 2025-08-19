@@ -9,7 +9,7 @@ Building scalable applications, leading technical teams, and delivering mission-
 
 # 🛰️ Astero Engineering
 
-I run [Astero Engineering]([https://www.berghoff.dev](https://asteroengineering.com), where I focus on SaaS tools and helping businesses grow with modern, scalable software.
+I run [Astero Engineering](https://asteroengineering.com), where I focus on SaaS tools and helping businesses grow with modern, scalable software.
 
 # ⚡ Beyond Code
 
